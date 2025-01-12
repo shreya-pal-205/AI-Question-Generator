@@ -1,0 +1,39 @@
+## MCQ 1
+Question: Who received the certificate of completion?
+A) Shradha Khapra
+B) APNA COLLEGE
+C) Shreyashi Pal
+D) Delta
+Correct Answer: C
+
+## MCQ 2
+Question: What course did the recipient successfully complete?
+A) CO-FOUNDER
+B) APNA COLLEGE
+C) Delta (Full Stack Web Development)
+D) 6762a59519e89610ca059736
+Correct Answer: C
+
+## MCQ 3
+Question: Who is the co-founder mentioned in the certificate?
+A) Shreyashi Pal
+B) Delta
+C) APNA COLLEGE
+D) Shradha Khapra
+Correct Answer: D
+
+## MCQ 4
+Question: What type of certificate is this?
+A) Participation
+B) Membership
+C) Completion
+D) Attendance
+Correct Answer: C
+
+## MCQ 5
+Question: Which institution issued the certificate?
+A) Delta (Full Stack Web Development)
+B) 6762a59519e89610ca059736
+C) Shreyashi Pal
+D) APNA COLLEGE
+Correct Answer: D

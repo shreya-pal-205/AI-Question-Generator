@@ -1,0 +1,159 @@
+## MCQ 1
+Question: What is Shreyashi's primary email address?
+A) shreyashi.pal@gmail.com
+B) shreyashi.pal05@gmail.com
+C) shreyashi05@gmail.com
+D) spal05@gmail.com
+Correct Answer: B
+
+## MCQ 2
+Question: What is Shreyashi's current educational pursuit?
+A) B.Sc in Computer Science
+B) B.Tech at the Institute of Engineering and Management, Kolkata
+C) M.Tech at the Institute of Engineering and Management, Kolkata
+D) Completed B.Tech from the Institute of Engineering and Management, Kolkata
+Correct Answer: B
+
+## MCQ 3
+Question: Which database is used in the Commercial Vehicle Rental Web App?
+A) MySQL
+B) PostgreSQL
+C) MongoDB
+D) Firebase Realtime Database
+Correct Answer: C
+
+## MCQ 4
+Question: What is the primary function of the Commercial Vehicle Rental Web App?
+A) Booking train tickets
+B) Renting heavy commercial vehicles
+C) Buying commercial vehicles
+D) Selling commercial vehicles
+Correct Answer: B
+
+## MCQ 5
+Question: What technology is used for authentication in the Commercial Vehicle Rental Web App?
+A) OAuth 2.0
+B) Firebase Authentication
+C) JWT (JSON Web Token)
+D) Both B and C
+Correct Answer: D
+
+## MCQ 6
+Question: Which API is used for payment processing in the Commercial Vehicle Rental Web App?
+A) PayPal API
+B) Razorpay API
+C) Stripe API
+D) Paytm API
+Correct Answer: C
+
+## MCQ 7
+Question: What AI model is used in the SmartVoyager project?
+A) GPT-3
+B) Gemini AI
+C) Bard
+D) BERT
+Correct Answer: B
+
+## MCQ 8
+Question: Which API is used to fetch destination details in SmartVoyager?
+A) Google Maps Places API
+B) Google Maps Directions API
+C) Google Maps Distance Matrix API
+D) Google Maps Elevation API
+Correct Answer: A
+
+## MCQ 9
+Question: Where is the travel plan data stored in SmartVoyager?
+A) MongoDB
+B) Firebase Realtime Database
+C) Firestore Database
+D) MySQL
+Correct Answer: C
+
+## MCQ 10
+Question: What algorithm is used for disease prediction in CareHeaven?
+A) Linear Regression
+B) Support Vector Machines
+C) Random Forest
+D) K-Nearest Neighbors
+Correct Answer: C
+
+## MCQ 11
+Question: Which library is used for implementing the Random Forest algorithm in CareHeaven?
+A) TensorFlow
+B) Keras
+C) Scikit-learn
+D) PyTorch
+Correct Answer: C
+
+## MCQ 12
+Question: What type of images are analyzed in CareHeaven for tumor detection?
+A) X-ray
+B) Ultrasound
+C) MRI or CT scan
+D) PET scan
+Correct Answer: C
+
+## MCQ 13
+Question:  Which deep learning technique is used for brain tumor detection in CareHeaven?
+A) Recurrent Neural Networks (RNNs)
+B) Convolutional Neural Networks (CNNs)
+C) Generative Adversarial Networks (GANs)
+D) Autoencoders
+Correct Answer: B
+
+## MCQ 14
+Question:  What frontend technologies are used in both Project 1 and Project 2?
+A) React.js, Bootstrap, Material UI
+B) React.js, Tailwind CSS, DaisyUI
+C) Angular, Tailwind CSS, Material UI
+D) Vue.js, Bootstrap, DaisyUI
+Correct Answer: B
+
+## MCQ 15
+Question: From which institution did Shreyashi receive a certificate for Machine Learning and Data Science?
+A) IIT Kharagpur
+B) Jadavpur University
+C) Calcutta University
+D) IIM Calcutta
+Correct Answer: B
+
+## MCQ 16
+Question: Shreyashi has a certificate for which web development specialization?
+A) Frontend Web Development
+B) Backend Web Development
+C) Full-Stack Web Development
+D) Mobile Web Development
+Correct Answer: C
+
+## MCQ 17
+Question: What is Shreyashi's 12th score?
+A) 96.2%
+B) 93%
+C) 9.52
+D) 95%
+Correct Answer: B
+
+## MCQ 18
+Question: What is Shreyashi's YGPA?
+A) 9.52
+B) 9.3
+C) 9.62
+D) 8.5
+Correct Answer: A
+
+## MCQ 19
+Question: What server-side technology is used in the Commercial Vehicle Rental Web App?
+A) Python/Flask
+B) Java/Spring
+C) Node.js/Express.js
+D) PHP/Laravel
+Correct Answer: C
+
+## MCQ 20
+Question:  Which technology is NOT listed among Shreyashi's skills?
+A) Java
+B) C++
+C) Python
+D) Javascript
+Correct Answer: B

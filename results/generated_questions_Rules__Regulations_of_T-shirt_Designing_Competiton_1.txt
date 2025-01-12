@@ -1,0 +1,39 @@
+## Problem 1
+Question: What is the theme for the T-shirt design competition?
+Answer: Cyberpunk
+
+## Problem 2
+Question: What is the tagline for the T-shirt design competition?
+Answer: #FutureUnleashed
+
+## Problem 3
+Question: Are gradients allowed in the T-shirt design?
+Answer: No
+
+## Problem 4
+Question: What are the allowed colors for the T-shirt?
+Answer: Shades of darker blue
+
+## Problem 5
+Question: What type of T-shirt should be used for the design?
+Answer: Polo t-shirt
+
+## Problem 6
+Question: Where should the "Ureckon'24" logo be placed on the T-shirt?
+Answer: Right chest
+
+## Problem 7
+Question: Where should the "UEM" logo be placed on the T-shirt?
+Answer: Left chest
+
+## Problem 8
+Question:  Does the design need to be for both the front and back of the T-shirt?
+Answer: Yes
+
+## Problem 9
+Question: What information should be included on the back design of the T-shirt?
+Answer: Name and position (e.g., Aryan, Lead Convenor)
+
+## Problem 10
+Question: In what file format should the design be submitted?
+Answer: .psd

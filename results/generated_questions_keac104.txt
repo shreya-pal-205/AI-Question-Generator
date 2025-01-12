@@ -1,0 +1,210 @@
+## Problem 1
+Question: What is the first step in recording business transactions?
+Answer: Recording in the journal.
+
+## Problem 2
+Question: Why are special journals used?
+Answer: For quick, efficient, and accurate recording of a large number of transactions.
+
+## Problem 3
+Question: What are other names for special journals?
+Answer: Daybooks or subsidiary books.
+
+## Problem 4
+Question: Where are transactions recorded that don't fit into special journals?
+Answer: Journal Proper.
+
+## Problem 5
+Question: What are the benefits of using special journals?
+Answer: They are economical and allow for division of labor in accounting work.
+
+## Problem 6
+Question: What is a cash book?
+Answer: A book in which all transactions relating to cash receipts and cash payments are recorded.
+
+## Problem 7
+Question: What does a single column cash book record?
+Answer: All cash transactions in chronological order.
+
+## Problem 8
+Question: What does the left side of a cash book show?
+Answer: Cash receipts (debits).
+
+## Problem 9
+Question: What does the right side of a cash book show?
+Answer: Cash payments (credits).
+
+## Problem 10
+Question: How are entries in the cash book posted to the ledger?
+Answer: Accounts on the debit side of the cash book are credited in the ledger, and accounts on the credit side of the cash book are debited in the ledger.
+
+## Problem 11
+Question: What is a double column cash book?
+Answer: A cash book with two amount columns on each side, one for cash and one for bank transactions.
+
+## Problem 12
+Question: What is a pay-in-slip used for?
+Answer: Depositing cash/cheques into a bank account.
+
+## Problem 13
+Question: What is the difference between a bearer cheque and an order cheque?
+Answer: A bearer cheque can be paid to anyone who holds it, while an order cheque is payable only to the person named on the cheque or their designated payee.
+
+
+## Problem 14
+Question: What does crossing a cheque mean?
+Answer: Drawing two parallel lines across the cheque, preventing its payment directly to the bearer at the bank counter. It ensures payment through a bank account.
+
+## Problem 15
+Question: What is "A/c payee only" crossing?
+Answer: A crossing that ensures the cheque amount is deposited only into the account of the person named on the cheque.
+
+
+## Problem 16
+Question:  What is a petty cash book?
+Answer: A cash book maintained by a petty cashier to record small, repetitive payments.
+
+## Problem 17
+Question: What is the imprest system?
+Answer: A system where the petty cashier is given a fixed amount (imprest amount) at the beginning of a period, makes payments from it, and is reimbursed for the amount spent.
+
+## Problem 18
+Question: What are the advantages of maintaining a petty cash book?
+Answer: Saves time and effort of the chief cashier, provides effective control over small disbursements, and facilitates convenient recording.
+
+
+## Problem 19
+Question: How is a petty cash book balanced?
+Answer: The difference between total receipts and total payments represents the balance with the petty cashier.
+
+
+## Problem 20
+Question:  How are entries from the petty cash book posted to the ledger?
+Answer: Each expense account is debited with its periodic total, and the petty cash account is credited with the total expenditure.
+
+## Problem 21
+Question: What transactions are recorded in the Purchases (Journal) Book?
+Answer: All credit purchases of goods.
+
+## Problem 22
+Question: What is the source document for entries in the Purchases (Journal) Book?
+Answer: Invoices or bills received from suppliers.
+
+## Problem 23
+Question: Where are cash purchases recorded?
+Answer: In the cash book.
+
+## Problem 24
+Question: Where are purchases of assets like furniture and equipment recorded?
+Answer: In the Journal Proper (if on credit) or the cash book (if for cash).
+
+
+## Problem 25
+Question:  What is the purpose of a debit note?
+Answer: To evidence a debit raised against a party for reasons other than a credit sale, such as returning defective goods.
+
+
+## Problem 26
+Question: What is a credit note?
+Answer: A document issued by a seller to give credit to a buyer for reasons other than a credit purchase, such as goods returned by the customer.
+
+## Problem 27
+Question:  What transactions are recorded in the Sales (Journal) Book?
+Answer: All credit sales of merchandise.
+
+## Problem 28
+Question: What is the source document for entries in the Sales (Journal) Book?
+Answer: Sales invoices or bills issued to customers.
+
+
+## Problem 29
+Question: What is a Sales Return (Journal) Book used for?
+Answer: To record goods returned by customers who purchased on credit.
+
+## Problem 30
+Question: What document is prepared when goods are received back from a customer?
+Answer: A credit note.
+
+
+## Problem 31
+Question: What is the Journal Proper used for?
+Answer: Recording transactions that don't fit in special journals.
+
+## Problem 32
+Question: What types of entries are recorded in the Journal Proper?
+Answer: Opening entries, adjustment entries, rectification entries, transfer entries, and other specific entries like dishonor of cheques, purchase/sale of non-goods items on credit, etc.
+
+## Problem 33
+Question:  What does balancing an account mean?
+Answer: Totaling both sides of an account and showing the difference on the shorter side to make the totals equal.
+
+
+## Problem 34
+Question: What is a debit balance?
+Answer: The difference when the debit side of an account exceeds the credit side.
+
+## Problem 35
+Question: What is a credit balance?
+Answer: The difference when the credit side of an account exceeds the debit side.
+
+
+## Problem 36
+Question: What are some examples of adjustment entries?
+Answer: Rent outstanding, prepaid insurance, depreciation, commission received in advance.
+
+## Problem 37
+Question: What is the purpose of ledger folio?
+Answer:  It's a column in the journal and other subsidiary books used to indicate the page number in the ledger where the corresponding entry has been posted. This helps in cross-referencing between the journal and ledger.
+
+## Problem 38
+Question: What is the difference between trade discount and cash discount?
+Answer: Trade discount is a reduction in the list price offered at the time of sale, while cash discount is offered to encourage prompt payment.
+
+## Problem 39
+Question:  When cash is deposited into the bank, how is it recorded in a double-column cash book?
+Answer:  Debit the bank column and credit the cash column with the same amount. This is a contra entry.
+
+## Problem 40
+Question: What does the abbreviation "C" stand for in the L.F. column of a cash book?
+Answer: Contra.
+
+## Problem 41
+Question: How is a dishonored cheque recorded in a cash book?
+Answer:  On the credit side, enter the amount in the bank column and the customer's name in the particulars column.
+
+## Problem 42
+Question:  What is an overdraft?
+Answer: A situation where withdrawals from a bank account exceed the deposits, resulting in a credit balance.
+
+## Problem 43
+Question: When is the purchases journal totalled and posted to the ledger?
+Answer: Periodically, usually at the end of each month.
+
+## Problem 44
+Question: When are individual suppliers' accounts posted from the purchases journal?
+Answer: Daily.
+
+
+## Problem 45
+Question:  When are individual customers' accounts posted from the sales journal?
+Answer: Daily.
+
+## Problem 46
+Question:  Where are cash sales recorded?
+Answer: Cash book.
+
+## Problem 47
+Question: How are transactions regarding bad debts or irrecoverable debts from customers recorded?
+Answer: In the Journal Proper.  This would involve debiting Bad Debts Expense and crediting the customer's account.
+
+## Problem 48
+Question: If a business owner takes goods from the business for personal use, where is this recorded?
+Answer: Journal Proper.
+
+## Problem 49
+Question: Why might goods be returned to a supplier?
+Answer:  Defective goods, wrong quality, incorrect quantity.
+
+## Problem 50
+Question:  What account is debited when posting the total of the sales return journal?
+Answer: Sales Return account.

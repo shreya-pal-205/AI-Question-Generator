@@ -1,0 +1,79 @@
+## MCQ 1
+Question: What is Shreyashi Pal's primary area of study?
+A) Machine Learning and Data Science
+B) Full-Stack Web Development
+C) B.Tech at the Institute of Engineering and Management, Kolkata
+D) AI and Brain Tumor Detection
+Correct Answer: C
+
+## MCQ 2
+Question: Which database is used in the "Commercial Vehicle Rental Web App" project?
+A) Firebase
+B) MySQL
+C) PostgreSQL
+D) MongoDB
+Correct Answer: D
+
+## MCQ 3
+Question: What AI model is used in the "SmartVoyager - AI Trip Planner" project?
+A) ChatGPT
+B) Gemini AI
+C) Bard
+D) TensorFlow
+Correct Answer: B
+
+## MCQ 4
+Question: Which API is used for payment processing in the "Commercial Vehicle Rental Web App"?
+A) PayPal API
+B) Stripe API
+C) Razorpay API
+D) Square API
+Correct Answer: B
+
+## MCQ 5
+Question: What is the purpose of the "CareHeaven" project?
+A) To predict flight prices
+B) To detect and classify brain tumors and predict diseases based on symptoms
+C) To plan optimized travel itineraries
+D) To rent commercial vehicles
+Correct Answer: B
+
+## MCQ 6
+Question: Which front-end technologies are used in Shreyashi's projects?
+A) Angular, Bootstrap, Material UI
+B) React.js, Tailwind CSS, DaisyUI
+C) Vue.js, SASS, Element UI
+D) jQuery, HTML, CSS
+Correct Answer: B
+
+## MCQ 7
+Question: Which algorithm is used for disease prediction in "CareHeaven"?
+A) Support Vector Machines
+B) K-Nearest Neighbors
+C) Random Forest
+D) Logistic Regression
+Correct Answer: C
+
+## MCQ 8
+Question: What technology is used for authentication in the "Commercial Vehicle Rental Web App"?
+A) OAuth 2.0
+B) JWT
+C) SAML
+D) OpenID Connect
+Correct Answer: B
+
+## MCQ 9
+Question:  Which API is used to fetch destination details in "SmartVoyager"?
+A) Yelp API
+B) Google Maps Places API
+C) Foursquare API
+D) TripAdvisor API
+Correct Answer: B
+
+## MCQ 10
+Question: Where does "SmartVoyager" store the generated travel plans?
+A) MongoDB
+B) Firestore Database of Firebase
+C) Local Storage
+D) MySQL
+Correct Answer: B
