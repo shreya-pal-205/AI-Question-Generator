@@ -1,13 +1,11 @@
-from flask import Flask, render_template, request, send_file, jsonify
+from flask import Flask, render_template, request, send_file
 import os
 import google.generativeai as genai
 import pdfplumber
 import docx
-import csv
 
-from pdfminer.high_level import extract_text
 from werkzeug.utils import secure_filename
-from fpdf import FPDF
+
 from youtube_transcript_api import YouTubeTranscriptApi
 
 from PyPDF2 import PdfReader, PdfFileReader
