@@ -1,9 +1,9 @@
 {
   "builds": [
-    { "src": "/", "use": "@vercel/python" }
+    { "src": "/(.*)", "use": "@vercel/python" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "/" }
+    { "src": "/(.*)", "dest": "/(.*)" }
   ]
 }
 
