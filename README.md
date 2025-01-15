@@ -2,7 +2,7 @@ Github Link -->  https://github.com/shreya-pal-205/AI-Question-Generator/
 
 Deploy Link -->  https://ai-question-generator-1.onrender.com/
 
-Youtube Explanation Link -->  
+Youtube Explanation Link -->  https://youtu.be/1iS0z0nEMds?si=OGGsgQ8gf-vZUET1
 
 
 
