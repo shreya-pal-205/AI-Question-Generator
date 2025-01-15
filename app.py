@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, send_file
+from dotenv import load_dotenv
 import os
 import google.generativeai as genai
 import pdfplumber
@@ -20,8 +21,14 @@ from langchain.prompts import PromptTemplate
 
 
 #Set an API key...
-os.environ['GOOGLE_API_KEY'] = 'AIzaSyBBZwCnWLlKi_CR4DIrszO40g19F8jXfWM'
-genai.configure(api_key=os.environ['GOOGLE_API_KEY'])
+# Load environment variables from .env file
+load_dotenv()
+
+# Access the API key from environment variables
+google_api_key = os.getenv('GOOGLE_API_KEY')
+
+# Configure the genai library
+genai.configure(api_key=google_api_key)
 model = genai.GenerativeModel("models/gemini-1.5-pro")
 
 
